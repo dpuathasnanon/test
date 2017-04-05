@@ -1,0 +1,12 @@
+body {
+	font-size: 24px;
+	font-family: Papyrus, Palatino, sans-serif;
+	color: #7F541E;
+	background-size:cover;
+	background:url(images/background.jpg);
+	}
+h1 {
+	font-size: 50px;
+	padding: 23px 0 2px 0;
+	text-align:center;
+	}
